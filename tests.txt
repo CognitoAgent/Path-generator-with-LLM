@@ -1,0 +1,151 @@
+//Jednostavniji, 2D
+
+Test
+Circle
+Generate coordinates for a 2D circle
+Make the radius smaller
+Reduce the number of coordinates
+Orient it parallel to the XY-plane
+quit
+Test
+
+Test
+Triangle
+Generate coordinates for a 2D triangle
+Reduce the height
+Lengthen only one side so it is longer than the others
+Increase the base
+quit
+Test
+
+Test
+Pentagon
+Generate coordinates for a 2D pentagon
+Make the radius bigger
+Lengthen only one side so it is longer than the others
+Revert to the previous version
+quit
+Test
+
+//Jednostavniji, 3D
+
+Test
+Cube
+Generate coordinates for a 3D cube
+Rotate 90 degrees about the X-axis
+Reduce the Z-height
+Lengthen only one side so it is longer than the others
+quit
+Test
+
+Test
+Pyramid
+Generate coordinates for a 3D pyramid
+Reduce the height
+Shrink the base
+Flip it upside down
+quit
+Test
+
+Test
+Hexagonal prism
+Generate coordinates for a 3D hexagonal prism
+Enlarge the base
+Rotate 90 degrees about the X-axis
+Revert to the previous version
+quit
+Test
+
+//Slozeniji, 2D
+
+Test
+Oval
+Generate coordinates for a 2D oval
+Shrink the longer axis
+Enlarge the base
+Reduce the number of coordinates
+quit
+Test
+
+Test
+Arrow
+Generate coordinates for a 2D arrow
+Flip it left to right
+Rotate it 90 degrees
+Increase the number of coordinates
+quit
+Test
+
+Test
+Star
+Generate coordinates for a 2D star
+Orient it parallel to the XY-plane
+Rotate it 90 degrees
+Shrink the surface
+quit
+Test
+
+//Slozeniji, 3D
+
+Test
+Cone
+//potrebno detaljnije objasniti
+Generate coordinates for a 3D cone with circle as a base
+Make the radius of base smaller
+Reduce the height
+Flip it upside down
+quit
+Test
+
+Test
+Octahedron
+Generate coordinates for a 3D octahedron
+Orient its base parallel to the XY-plane
+Lengthen only one side so it is longer than the others
+Revert to the previous version
+quit
+Test
+
+Test
+Cylinder
+Generate coordinates for a 3D cylinder
+Make the radius of base smaller
+Reduce the height
+Rotate 90 degrees about the X-axis
+quit
+Test
+
+//kompleksni, 2D
+
+Test
+Sine
+Generate coordinates for a 2D sine wave
+Increase the number of coordinates
+Flip it upside down
+Orient it parallel to the YZ-plane
+quit
+Test
+
+
+Test
+Moon
+//potrebno detaljnije objasniti
+Generate coordinates for a 2D crescent moon (one large circle minus a smaller offset circle)
+Make the radius smaller
+Flip it left to right
+Revert to the previous version
+quit
+Test
+
+Test
+Flower
+//potrebno detaljnije objasniti
+Generate coordinates for a 2D flower with circle-arcs as petals
+Increase the number of coordinates
+Orient it parallel to the XY-plane
+Revert to the previous version
+quit
+Test
+
+
+
