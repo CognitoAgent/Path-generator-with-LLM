@@ -1,13 +1,4 @@
 # Path-generator-with-LLM
-Generating mobile robot paths using large language models
-
-Link to Google Sheet: 
-https://docs.google.com/spreadsheets/d/15-OgjpOfc4y8PSBUoKsNrm4AalhyKr0pKnyPOGpXPU0/edit?usp=drivesdk
-
-
-
-
-# Path Generator with LLM
 
 A Python-based system for generating 2D and 3D mobile robot/drone trajectories from natural language instructions using a large language model.
 
@@ -42,6 +33,8 @@ The generated trajectory can be visualized and further modified through follow-u
 
 The system was evaluated on 15 different geometric shapes, including simple 2D shapes, simple 3D shapes, complex 2D shapes, complex 3D shapes and specific 2D shapes.  
 Each test was repeated 20 times and included multiple modification requests.
+Link to Google Sheet with my own run of tests: 
+https://docs.google.com/spreadsheets/d/15-OgjpOfc4y8PSBUoKsNrm4AalhyKr0pKnyPOGpXPU0/edit?usp=drivesdk
 
 ## Repository Structure
 
